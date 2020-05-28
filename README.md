@@ -7,7 +7,7 @@ This repo is for project management of the Environmental Enforcement Watch (EEW)
 | Name | Github | Role/Area of responsibility/Tag me on conversations about... |
 | ------|--------|----------------------|
 | Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator |
-| Lourdes Vera | @lourdesvera | |
+| Lourdes Vera | @lourdesvera |EEW event co-coordinator, intern management, Gihub project management, data visualization and story gathering tracks, website management and review|
 | Kelly Wilkinson | @EDGI-Comms| |
 | Cole Alder | @calderEDJ | |
 | Casey Greenleaf | @crgreenleaf | |
