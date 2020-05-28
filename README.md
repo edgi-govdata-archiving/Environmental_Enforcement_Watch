@@ -3,6 +3,22 @@
 # EEW Planning
 This repo is for project management of the Environmental Enforcement Watch (EEW) series of events hosted by EDGI.
 
+## People of EEW
+| Name | Github | Role/Area of responsibility/Tag me on conversations about... |
+| ------|--------|----------------------|
+| Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator |
+| Lourdes Vera | @lourdesvera | |
+| Kelly Wilkinson | @EDGI-Comms| |
+| Cole Alder | @calderEDJ | |
+| Casey Greenleaf | @crgreenleaf | |
+| Steve Hansen | @shansen5 | |
+| Chris Sellers | @csellers9 | |
+| Eric Nost | @ericnost  | Github use & management, general questions, code reviews for Jupyter notebooks, data visualization and research/contextualization tracks |
+| Kelsey Breseman | @Frijol | Github use & management, general questions, interfacing with EDGI, code reviews for Jupyter notebooks |
+| Sung-Gheel Jang | @sunggheel | |
+| Paul St. Denis | @pstdenis | |
+| Dan Pascucci | @danpascucci | |
+
 ## How to use this repo
 We are using a Github Project attached to this repo to manage tasks associated with organizing the EEW events. You can find the Project board [here](https://github.com/edgi-govdata-archiving/EEW_Planning/projects/1) (or look for the Projects tab at the top of this repo.)
 
