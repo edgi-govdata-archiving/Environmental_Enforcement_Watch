@@ -18,6 +18,7 @@ This repo is for project management of the Environmental Enforcement Watch (EEW)
 | Sung-Gheel Jang | @sunggheel | |
 | Paul St. Denis | @pstdenis | |
 | Dan Pascucci | @danpascucci | |
+| Dietmar Offenhuber | @dietoff |Data visualization track, UX research, EEW in the classroom|
 
 ## How to use this repo
 We are using a Github Project attached to this repo to manage tasks associated with organizing the EEW events. You can find the Project board [here](https://github.com/edgi-govdata-archiving/EEW_Planning/projects/1) (or look for the Projects tab at the top of this repo.)
