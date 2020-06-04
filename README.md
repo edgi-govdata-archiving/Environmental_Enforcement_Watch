@@ -16,7 +16,7 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Lourdes Vera | @lourdesvera |EEW event co-coordinator, intern management, Gihub project management, data visualization and story gathering tracks, website management and review|
 | Kelly Wilkinson | @EDGI-Comms| |
 | Cole Alder | @calderEDJ | |
-| Casey Greenleaf | @crgreenleaf | |
+| Casey Greenleaf | @crgreenleaf |EEW event support, participant onboarding, partnership and outreach co-coordinator, general questions   | 
 | Steve Hansen | @shansen5 | |
 | Chris Sellers | @csellers9 | |
 | Eric Nost | @ericnost  | Github use & management, general questions, code reviews for Jupyter notebooks, data visualization and research/contextualization tracks |
