@@ -14,17 +14,18 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | ------|--------|----------------------|
 | Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator |
 | Lourdes Vera | @lourdesvera |EEW event co-coordinator, intern management, Gihub project management, data visualization and story gathering tracks, website management and review|
-| Kelly Wilkinson | @EDGI-Comms| |
-| Cole Alder | @calderEDJ | |
+| Kelly Wilkinson | @EDGI-Comms|*enter text here*  |
+| Cole Alder | @calderEDJ |*enter text here*  |
 | Casey Greenleaf | @crgreenleaf |EEW event support, participant onboarding, partnership and outreach co-coordinator, general questions   | 
 | Steve Hansen | @shansen5 | Programming and database support; Jupyter Notebook development; Mentoring on programming and development; Event notebook demonstrations|
 | Chris Sellers | @csellers9 | |
 | Eric Nost | @ericnost  | Github use & management, general questions, code reviews for Jupyter notebooks, data visualization and research/contextualization tracks |
 | Kelsey Breseman | @Frijol | Github use & management, general questions, interfacing with EDGI, code reviews for Jupyter notebooks |
-| Sung-Gheel Jang | @sunggheel | |
-| Paul St. Denis | @pstdenis | |
-| Dan Pascucci | @danpascucci | |
+| Sung-Gheel Jang | @sunggheel |*enter text here* |
+| Paul St. Denis | @pstdenis |*enter text here*  |
+| Dan Pascucci | @danpascucci |*enter text here*  |
 | Dietmar Offenhuber | @dietoff |Data visualization track, UX research, EEW in the classroom|
+| Gaby Trudo| @gabrielletrudo | Communications and social media intern|
 
 ## How to use this repo
 We are using a Github Project attached to this repo to manage tasks associated with organizing the EEW events. You can find the Project board [here](https://github.com/edgi-govdata-archiving/EEW_Planning/projects/1) (or look for the Projects tab at the top of this repo.)
