@@ -18,7 +18,7 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Cole Alder | @calderEDJ |*enter text here*  |
 | Casey Greenleaf | @crgreenleaf |EEW event support, participant onboarding, partnership and outreach co-coordinator, general questions   | 
 | Steve Hansen | @shansen5 | Programming and database support; Jupyter Notebook development; Mentoring on programming and development; Event notebook demonstrations|
-| Chris Sellers | @csellers9 | |
+| Chris Sellers | @csellers9 | *enter text here* |
 | Eric Nost | @ericnost  | Github use & management, general questions, code reviews for Jupyter notebooks, data visualization and research/contextualization tracks |
 | Kelsey Breseman | @Frijol | Github use & management, general questions, interfacing with EDGI, code reviews for Jupyter notebooks |
 | Sung-Gheel Jang | @sunggheel |*enter text here* |
