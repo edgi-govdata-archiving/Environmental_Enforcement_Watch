@@ -25,7 +25,6 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Kelsey Breseman | @Frijol | Github use & management, general questions, interfacing with EDGI, code reviews for Jupyter notebooks |
 | Sung-Gheel Jang | @sunggheel |*enter text here* |
 | Paul St. Denis | @pstdenis |*enter text here*  |
-| Dan Pascucci | @danpascucci |*enter text here*  |
 | Dietmar Offenhuber | @dietoff |Data visualization track, UX research, EEW in the classroom|
 | Gaby Trudo| @gabrielletrudo | Communications and social media intern|
 
