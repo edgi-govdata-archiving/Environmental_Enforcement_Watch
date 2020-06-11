@@ -16,7 +16,7 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | ------|--------|----------------------|-|
 | Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/saraannwylie |
 | Lourdes Vera | @lourdesvera |EEW event co-coordinator, intern management, Gihub project management, data visualization and story gathering tracks, website management and review| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/lourdesvera |
-| Kelly Wilkinson | @EDGI-Comms|*enter text here*  | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/EDGI-Comms |
+| Kelly Wilkinson | @EDGI-Comms|EDGI communications and social media | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/EDGI-Comms |
 | Cole Alder | @calderEDJ |EEW website maintenance; event support; participant offboarding, visualization / outcome development and management; media coverage tracking  | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/calderEDJ |
 | Casey Greenleaf | @crgreenleaf |EEW event support, participant onboarding, partnership and outreach co-coordinator, general questions   | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/crgreenleaf |
 | Steve Hansen | @shansen5 | Programming and database support; Jupyter Notebook development; Mentoring on programming and development; Event notebook demonstrations| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/shansen5 |
