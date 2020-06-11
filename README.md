@@ -16,7 +16,7 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | ------|--------|----------------------|
 | Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator |
 | Lourdes Vera | @lourdesvera |EEW event co-coordinator, intern management, Gihub project management, data visualization and story gathering tracks, website management and review|
-| Kelly Wilkinson | @EDGI-Comms|*enter text here*  |
+| Kelly Wilkinson | @EDGI-Comms|EDGI communications and social media |
 | Cole Alder | @calderEDJ |EEW website maintenance; event support; participant offboarding, visualization / outcome development and management; media coverage tracking  |
 | Casey Greenleaf | @crgreenleaf |EEW event support, participant onboarding, partnership and outreach co-coordinator, general questions   | 
 | Steve Hansen | @shansen5 | Programming and database support; Jupyter Notebook development; Mentoring on programming and development; Event notebook demonstrations|
