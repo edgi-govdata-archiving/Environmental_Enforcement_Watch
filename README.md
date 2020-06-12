@@ -25,7 +25,6 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Kelsey Breseman | @Frijol | Github use & management, general questions, interfacing with EDGI, code reviews for Jupyter notebooks | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/frijol
 | Sung-Gheel Jang | @sunggheel | ECHO database hosted at Stonybrook University | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/sunggheel |
 | Paul St. Denis | @pstdenis | ECHO database hosted at Stonybrook University  | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/pstdenis |
-| Dan Pascucci | @danpascucci |*enter text here*  | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/danpascucci |
 | Dietmar Offenhuber | @dietoff |Data visualization track, UX research, EEW in the classroom| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/dietoff |
 | Gaby Trudo| @gabrielletrudo | Communications and social media intern| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/gabrielletrudo |
 
