@@ -28,6 +28,17 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Dietmar Offenhuber | @dietoff |Data visualization track, UX research, EEW in the classroom| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/dietoff |
 | Gaby Trudo| @gabrielletrudo | Communications and social media intern| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/gabrielletrudo |
 
+## EEW-relevant Slack channels on EDGI's Slack
+| Channel | Description |
+|-|-|
+| #data_wg | EDGI's general channel for data and archiving topics, including EEW notebook development and decentralized web work |
+| #echo_projects |  The general channel for all projects related to ECHO, including EEW, ECHO classes, ECHO UX research, and others. |
+| #eew_coordination | The general channel for everything related to EEW and EEW planning. This will be the main channel that you will be communicating in |
+| #eew_daily_scrum | A bot posts every day to ask check-in questions so the EEW team can share what they are working on |
+| #eew_issues | A bot posts updates to Github issues in the EEW_Planning and Environmental_Enforcement_Watch repos |
+| #envirodatajustice | This is the channel about the broader theory behind environmental data justice and resources about environmental justice and data justice activism |
+| #stupid_questions | For asking questions, especially questions you feel like maybe you should know the answer to already |
+
 ## How to use this repo
 We are using a Github Project attached to this repo to manage tasks associated with organizing the EEW events. You can find the Project board [here](https://github.com/edgi-govdata-archiving/EEW_Planning/projects/1) (or look for the Projects tab at the top of this repo.)
 
