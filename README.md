@@ -27,6 +27,7 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/saraannwylie |
 | Steve Hansen | @shansen5 | Programming and database support; Jupyter Notebook development; Mentoring on programming and development; Event notebook demonstrations| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/shansen5 |
 | Sung-Gheel Jang | @sunggheel | ECHO database hosted at Stonybrook University | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/sunggheel |
+| Megan Raisle | @mraisle | EEW Research and Contextualization Intern + Interview Editor | https://github.com/orgs/edgi-govdata-archiving/projects/6 |
 
 
 ## EEW-relevant Slack channels on EDGI's Slack
