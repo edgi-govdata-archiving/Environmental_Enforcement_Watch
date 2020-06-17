@@ -21,7 +21,7 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Kelly Wilkinson | @EDGI-Comms|EDGI communications and social media | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/EDGI-Comms |
 | Eric Nost | @ericnost  | Github use & management, general questions, code reviews for Jupyter notebooks, data visualization and research/contextualization tracks | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/ericnost |
 | Kelsey Breseman | @Frijol | Github use & management, general questions, interfacing with EDGI, code reviews for Jupyter notebooks | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/frijol
-| Gaby Trudo| @gabrielletrudo | Communications and social media intern| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/gabrielletrudo |
+| Gabby Trudo| @gabrielletrudo | Communications and social media intern| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/gabrielletrudo |
 | Lourdes Vera | @lourdesvera |EEW event co-coordinator, intern management, Gihub project management, data visualization and story gathering tracks, website management and review| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/lourdesvera |
 | Maalvika Bhat | @maalvikabhat | EEW Data Science Intern | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/maalvikabhat |
 | Paul St. Denis | @pstdenis | ECHO database hosted at Stonybrook University  | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/pstdenis |
