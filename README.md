@@ -9,7 +9,7 @@ Looking for something to do? Look for the [needs more assignees](https://github.
 For planning meeting notes and information, please visit the [Planning Doc](https://docs.google.com/document/d/1ZraEefQMhF1XWDrZi8Igr9gQUWD2n2LM5n26CLmxbB8/edit#heading=h.s8auecfa33q0).
 
 ## EEW Tracker
-Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Notebook and Primers on this [tracking spreadsheet](https://docs.google.com/document/d/1ZraEefQMhF1XWDrZi8Igr9gQUWD2n2LM5n26CLmxbB8/edit#heading=h.s8auecfa33q0).
+Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Notebook and Primers on this [tracking spreadsheet](https://docs.google.com/spreadsheets/d/1Z2rBoGqb_SXW6oAu12A6TCWEJGV1pk0YxL13P_Z5Wlw/edit#gid=903191621).
 
 ## People of EEW
 | Name | Github | Role/Area of responsibility/Tag me on conversations about... | Assigned issues |
