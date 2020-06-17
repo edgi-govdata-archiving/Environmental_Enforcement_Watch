@@ -22,14 +22,15 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Eric Nost | @ericnost  | Github use & management, general questions, code reviews for Jupyter notebooks, data visualization and research/contextualization tracks | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/ericnost |
 | Kelsey Breseman | @Frijol | Github use & management, general questions, interfacing with EDGI, code reviews for Jupyter notebooks | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/frijol
 | Gabby Trudo| @gabrielletrudo | Communications and social media intern| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/gabrielletrudo |
+| Leslie Alanis| @lesliealanis | EEW Storytelling Intern | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/lesliealanis |
 | Lourdes Vera | @lourdesvera |EEW event co-coordinator, intern management, Gihub project management, data visualization and story gathering tracks, website management and review| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/lourdesvera |
 | Maalvika Bhat | @maalvikabhat | EEW Data Science Intern | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/maalvikabhat |
+| Megan Raisle | @mraisle | EEW Research and Contextualization Intern + Interview Editor | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/mraisle |
 | Paul St. Denis | @pstdenis | ECHO database hosted at Stonybrook University  | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/pstdenis |
 | Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/saraannwylie |
 | Steve Hansen | @shansen5 | Programming and database support; Jupyter Notebook development; Mentoring on programming and development; Event notebook demonstrations| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/shansen5 |
 | Sung-Gheel Jang | @sunggheel | ECHO database hosted at Stonybrook University | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/sunggheel |
-| Megan Raisle | @mraisle | EEW Research and Contextualization Intern + Interview Editor | https://github.com/orgs/edgi-govdata-archiving/projects/6 |
-| Leslie Alanis| @lesliealanis | EEW Storytelling Intern | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/lesliealanis |
+
 
 ## EEW-relevant Slack channels on EDGI's Slack
 | Channel | Description |
