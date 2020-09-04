@@ -64,9 +64,33 @@ We are using a Github Project attached to this repo to manage tasks associated w
 *This is for if you make a Github issue first, then want it to show up in the Project board.*
 
 1. Make a Github issue
-1. In the Project board, Click on "+ Add cards" near the top right of the screen ![](https://user-images.githubusercontent.com/454690/79391908-436eac00-7f27-11ea-97b7-84df31d2c60a.png)
-1. Find your issue in the menu that pops out and click on it
+2. In the Project board, Click on "+ Add cards" near the top right of the screen ![](https://user-images.githubusercontent.com/454690/79391908-436eac00-7f27-11ea-97b7-84df31d2c60a.png)
+3. Find your issue in the menu that pops out and click on it
+
+# Default branch - 'main'
+The 'master' branch is no longer the repo's primary branch in line with EDGI's policy decided here: https://github.com/edgi-govdata-archiving/overview/issues/241
+
+> If someone has a local clone, they can update their locals like this:
+```
+$ git checkout master
+$ git branch -m master main
+$ git fetch
+$ git branch --unset-upstream
+$ git branch -u origin/main
+$ git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+```
+> The above steps accomplish:
+> - Go to the master branch
+> - Rename master to main locally
+> - Get the latest commits from the server
+> - Remove the link to origin/master
+> - Add a link to origin/main
+> - Update the default branch to be origin/main
+
+(From @jywarren at Public Lab: https://github.com/publiclab/plots2/issues/8077)
+
 ---
+
 ## License & Copyright
 
 Copyright (C) <year> Environmental Data and Governance Initiative (EDGI)
