@@ -1,6 +1,6 @@
   [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
-# EEW Planning
+# Environmental Enforcement Watch
 This repo is for project management of the Environmental Enforcement Watch (EEW) series of events hosted by EDGI. Looking for something to do? Look for the [needs more assignees](https://github.com/edgi-govdata-archiving/EEW_Planning/labels/needs%20more%20assignees) label!
 
 ## Planning Document
